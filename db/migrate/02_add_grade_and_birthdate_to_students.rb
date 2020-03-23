@@ -1,4 +1,4 @@
-AddGradeAndBirthdateToStudents
+class AddGradeAndBirthdateToStudents
 
   def change
     add_column :artists, :favorite_food, :string
